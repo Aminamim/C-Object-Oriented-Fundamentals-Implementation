@@ -1,0 +1,12 @@
+G:\ACM\ACM BL\bin\Debug\ACM BL.dll
+G:\ACM\ACM BL\bin\Debug\ACM BL.pdb
+G:\ACM\ACM BL\obj\Debug\ACM BL.csprojAssemblyReference.cache
+G:\ACM\ACM BL\obj\Debug\ACM BL.csproj.CoreCompileInputs.cache
+G:\ACM\ACM BL\obj\Debug\ACM BL.dll
+G:\ACM\ACM BL\obj\Debug\ACM BL.pdb
+G:\my works\ACM\ACM BL\bin\Debug\ACM BL.dll
+G:\my works\ACM\ACM BL\bin\Debug\ACM BL.pdb
+G:\my works\ACM\ACM BL\obj\Debug\ACM BL.csprojAssemblyReference.cache
+G:\my works\ACM\ACM BL\obj\Debug\ACM BL.csproj.CoreCompileInputs.cache
+G:\my works\ACM\ACM BL\obj\Debug\ACM BL.dll
+G:\my works\ACM\ACM BL\obj\Debug\ACM BL.pdb
